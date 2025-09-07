@@ -9,7 +9,7 @@
 ---
 
 ### 🕶️ Identity
-![Spydomain](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=2500&pause=500&color=FF00FF&center=true&vCenter=true&width=600&lines=SPYDOMAIN;Bikash+Sarraf;>_Code+Breaker;>_Digital+Forensics;>_Pentester;>_Secure+Coder)
+![Spydomain](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=2500&pause=500&color=FF00FF&center=true&vCenter=true&width=600&lines=SPYDOMAIN;Bikash+Sarraf;>_Code+Breaker;>_Bug+Bounty+Hunter;>_Pentester;>_Secure+Coder)
 
 ---
 
