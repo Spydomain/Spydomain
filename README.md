@@ -1,6 +1,11 @@
 <p align="center">
-  <img src="https://i.imgur.com/xsyi7Ph.gif" alt="Glitchy SPYDOMAIN Banner" width="700"/>
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation as background" width="1000"/>
 </p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kyechan99/capsule-render/master/demo/Marquee.gif" alt="Glitchy SPYDOMAIN Banner" width="800"/>
+</p>
+
 
 # 🐉 Spydomain (Bikash Sarraf)
 
@@ -30,11 +35,15 @@
 ⚙️ Tools:       Git | Docker | Postman | VS Code
 ```
 🐍 Watch my commits get eaten!
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=200&section=header&text=SPYDOMAIN&fontSize=60&fontColor=00FF00&animation=fadeIn&fontAlignY=35&desc=Bikash%20Sarraf%20⚡&descAlignY=60&descAlign=50" />
+</p>
 
 📡 Connect
 
-📧 Email
+## 📬 Connect with me  
 
-💼 LinkedIn
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bikashsarraf83@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bikash-sarraf-683787320/)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.bikashkumarsarraaf.com.np)  
 
-🌐 Portfolio
