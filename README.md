@@ -8,7 +8,7 @@
 
 ---
 
-### 🕶️ Glitch Identity
+### 🕶️ Identity
 ![Spydomain](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=2500&pause=500&color=FF00FF&center=true&vCenter=true&width=600&lines=SPYDOMAIN;Bikash+Sarraf;>_Code+Breaker;>_Digital+Forensics;>_Pentester;>_Secure+Coder)
 
 ---
@@ -19,7 +19,7 @@
 - 💻 Passionate about **Cybersecurity, Full-Stack Development & Digital Forensics**
 - ⚡ Motto: *"Code. Break. Secure. Repeat."*
 - 🌱 Currently working on: **Bike Rental Nepal**, **Notes App**
-- 🎯 Goal: Build secure apps & master **Offensive Security**
+- 🎯 Goal: Build secure apps & master **Web Security**
 
 ---
 
