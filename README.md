@@ -1,10 +1,7 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation as background" width="1000"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=200&section=header&text=SPYDOMAIN&fontSize=60&fontColor=00FF00&animation=fadeIn&fontAlignY=35&desc=Bikash%20Sarraf%20⚡&descAlignY=60&descAlign=50" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/kyechan99/capsule-render/master/demo/Marquee.gif" alt="Glitchy SPYDOMAIN Banner" width="800"/>
-</p>
 
 
 # 🐉 Spydomain (Bikash Sarraf)
@@ -36,7 +33,11 @@
 ```
 🐍 Watch my commits get eaten!
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=200&section=header&text=SPYDOMAIN&fontSize=60&fontColor=00FF00&animation=fadeIn&fontAlignY=35&desc=Bikash%20Sarraf%20⚡&descAlignY=60&descAlign=50" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation as background" width="1000"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kyechan99/capsule-render/master/demo/Marquee.gif" alt="Glitchy SPYDOMAIN Banner" width="800"/>
 </p>
 
 📡 Connect
