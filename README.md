@@ -40,7 +40,6 @@
   <img src="https://raw.githubusercontent.com/kyechan99/capsule-render/master/demo/Marquee.gif" alt="Glitchy SPYDOMAIN Banner" width="800"/>
 </p>
 
-📡 Connect
 
 ## 📬 Connect with me  
 
