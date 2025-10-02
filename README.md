@@ -31,9 +31,11 @@
 🔐 Security:    Kali Linux | Burp Suite | Metasploit | Wireshark
 ⚙️ Tools:       Git | Docker | Postman | VS Code
 ```
-🔗 Social / Badges
+🔗 TryHackMe
 <p align="center">
-<img src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3289980" style='border:none;' alt="https://tryhackme.com/p/bikashsarraf"></img>
+  <a href="https://tryhackme.com/p/bikashsarraf" target="_blank">
+    <img src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3289980"  alt="TryHackMe Profile Badge" />
+  </a>
 </p>
 
 📄 Certifications & Labs
