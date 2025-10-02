@@ -33,7 +33,7 @@
 ```
 🔗 Social / Badges
 <p align="center">
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3289980" style='border:none;' alt="https://tryhackme.com/p/bikashsarraf"></iframe>
+<img src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3289980" style='border:none;' alt="https://tryhackme.com/p/bikashsarraf"></img>
 </p>
 
 📄 Certifications & Labs
