@@ -31,6 +31,22 @@
 🔐 Security:    Kali Linux | Burp Suite | Metasploit | Wireshark
 ⚙️ Tools:       Git | Docker | Postman | VS Code
 ```
+🔗 Social / Badges
+<p align="center">
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3289980" style='border:none;' alt="https://tryhackme.com/p/bikashsarraf"></iframe>
+</p>
+
+📄 Certifications & Labs
+```bash
+TryHackMe Pre-Security
+TryHackMe Cyber Security 101
+TryHackMe Advent of Cyber 2022
+TryHackMe Advent of Cyber 2023
+TryHackMe Advent of Cyber 2024
+Cisco Certified Ethical Hacker
+```
+
+
 🐍 Watch my commits get eaten!
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation as background" width="1000"/>
