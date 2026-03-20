@@ -18,7 +18,6 @@
 - 👤 Name: **Bikash Sarraf**
 - 💻 Passionate about **Cybersecurity, Full-Stack Development & Digital Forensics**
 - ⚡ Motto: *"Code. Break. Secure. Repeat."*
-- 🌱 Currently working on: **Bike Rental Nepal**, **Notes App**
 - 🎯 Goal: Build secure apps & master **Web Security**
 
 ---
